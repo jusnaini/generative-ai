@@ -42,27 +42,35 @@ The intensive course covers the following key areas over five days:
 #### Day 3: Generative AI Agents
 - Delves into the architecture and implementation of generative AI agents, which can perform multi-step tasks by interacting with tools and external environments.
 - 👀 **Readings**:
+  - [ ] [Agents](https://www.kaggle.com/whitepaper-agents)
+  - [ ] [Agents Companion](https://www.kaggle.com/whitepaper-agent-companion)
 - 👂🏻 **Podcast Summaries**:
+  - [ ] [Agents](https://www.youtube.com/watch?v=D3Kaqz7VW28&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=5)
+  - [ ] [Agents Companion](https://www.youtube.com/watch?v=7rbSwt-7odQ&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=6)
   - [ ] [DAY 3 Livestream - 5-Day Gen AI Intensive Course | Kaggle](https://www.youtube.com/watch?v=g6MVIEzFTjY&list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&index=3)
 - 👩🏻‍💻 **Practical Code Labs on Kaggle**:
-  - [ ]() 
+  - [ ] [Talk to a database with function calling](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api)
+  - [ ] [Build an agentic ordering system in LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
       
 #### Day 4: Domain-Specific LLMs
 - Covers techniques for fine-tuning and adapting large language models (LLMs) to specific domains or industries, enhancing their relevance and performance.
 - 👀 **Readings**:
+  - [ ] [Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
 - 👂🏻 **Podcast Summaries**:
+  - [ ] [Solving Domain-Specific Problems Using LLMs](https://www.youtube.com/watch?v=MWqspvVvNzA&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=7)
   - [ ] [DAY 4 Livestream - 5-Day Gen AI Intensive Course | Kaggle](https://www.youtube.com/watch?v=AN2tpHi26OE&list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&index=4)
 - 👩🏻‍💻 **Practical Code Labs on Kaggle**:
-  - [ ]()
- 
-  - 
+  - [ ] [Tune a Gemini model for a custom task]()
+  - [ ] [Use Google Search data in generation]()
+
 #### Day 5: MLOps for Generative AI
 - Addresses the operational aspects of deploying and managing Generative AI models, including monitoring, versioning, and continuous integration/delivery practices.
 - 👀 **Readings**:
+  - [ ] [Operationalizing Generative AI on Vertex AI using MLOps](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
 - 👂🏻 **Podcast Summaries**:
+  - [ ] [Operationalizing Generative AI on Vertex AI using MLOps](https://www.youtube.com/watch?v=Hbk8UXavHrk&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=8)
   - [ ] [DAY 5 Livestream - 5-Day Gen AI Intensive Course | Kaggle](https://www.youtube.com/watch?v=eZ-8UQ_t4YM&list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&index=5)
-- 👩🏻‍💻 **Practical Code Labs on Kaggle**:
-  - [ ]()
+
  
     
 > You can access the full self-paced learning guide on Kaggle here: https://www.kaggle.com/learn-guide/5-day-genai
